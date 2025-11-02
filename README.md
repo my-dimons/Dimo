@@ -11,15 +11,24 @@ A modified version of the [Monokai Spectrum](https://marketplace.visualstudio.co
 # Installing 
 
 ## Setup Theme
-### Step 1 - Download
-download the latest version of Dimo _[version]_.vssettings (Biggest version number)
+### Step 1 - Download .vssettings
+download the latest version of Dimo _[version]_.vssettings (Click on file, then in the top right click the download icon that says "Download Raw File")
 
-### Step 2 - Navigate
-Open Microsoft Visual Studio and navigate to Tools -> Import and Export Settings
+### Step 2 - Install Rainbow Braces (Optional, but is very easy and looks nice)
+
+- Navigate to Extensions -> Manage Extensions
+
+<img width="631.75" height="356.5" alt="Screenshot 2025-11-01 201239" src="https://github.com/user-attachments/assets/18bc55fd-8a0d-4c7a-8409-16f4320a74bd" />
+
+- Search for 'Rainbow Braces' and install it. Once installed restart Visual Studio
+
+<img width="484.75" height="329.75" alt="Screenshot 2025-11-01 201328" src="https://github.com/user-attachments/assets/2fdc1b8c-dde9-4da2-95d5-599bd68045c7" />
+
+### Step 3 - Import Theme
+- Open Microsoft Visual Studio and navigate to Tools -> Import and Export Settings
 
 <img width="382.25" height="192.25" alt="Screenshot 2025-11-01 170111" src="https://github.com/user-attachments/assets/fa05d9bc-4048-4ee4-b478-ed332a6a9341" />
 
-### Step 3 - Import
 - Select 'Import selected enviroment settings', then click next
 
 <img width="304.25" height="308" alt="Screenshot 2025-11-01 170236" src="https://github.com/user-attachments/assets/140368b5-c2f6-4f63-8f41-814da79c420e" />
@@ -36,25 +45,14 @@ Open Microsoft Visual Studio and navigate to Tools -> Import and Export Settings
 
 <img width="386.75" height="237.5" alt="image" src="https://github.com/user-attachments/assets/0fff9480-8f15-4180-b26a-ca229ea7ff9d" />
 
-
 - Import all settings then click 'Finish'
 <img width="242" height="249.5" alt="image" src="https://github.com/user-attachments/assets/b66f7713-90cd-4a86-a3fe-c03087f5032c" />
 
 
 
-## Rainbow Braces (Optional)
 
-### Step 1 - Install the Rainbow Braces Extension
-- Navigate to Extensions -> Manage Extensions
-
-<img width="631.75" height="356.5" alt="Screenshot 2025-11-01 201239" src="https://github.com/user-attachments/assets/18bc55fd-8a0d-4c7a-8409-16f4320a74bd" />
-
-- Search for 'Rainbow Braces' and install it (You will need to restart Visual Studio)
-
-<img width="484.75" height="329.75" alt="Screenshot 2025-11-01 201328" src="https://github.com/user-attachments/assets/2fdc1b8c-dde9-4da2-95d5-599bd68045c7" />
-
-### Step 2 - Setup Rainbow Braces
-
+## If Rainbow Braces colors didn't import properly
+**NOTE:** It may say that Rainbow Braces settings had an error while importing, even if it imported properly. Make sure to test if the braces colors in the theme preview are the same as your braces colors (Like {} and ()), if they _are not_ THEN do these steps
 - Navigate to Tools -> Options
   
 <img width="632.75" height="359.25" alt="Screenshot 2025-11-01 201641" src="https://github.com/user-attachments/assets/d8976fe9-f042-4fa6-aecb-5c754653d74f" />
@@ -80,5 +78,6 @@ Open Microsoft Visual Studio and navigate to Tools -> Import and Export Settings
     - Brace lvl 9: 107 | 221 | 104
  
 I will try to find a better way to auto import (or even auto install) the Rainbow Braces theme, but for now I can't find any
+
 
 
