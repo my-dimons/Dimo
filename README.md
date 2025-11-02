@@ -2,7 +2,7 @@
 FORMATTING:
 - Divide all image sizes by 4 to get proper size
 -->
-A modified version of the [Monokai Spectrum](https://marketplace.visualstudio.com/items?itemName=KristofferHopland.MonokaiTheme) theme
+A modified version of the [Monokai Spectrum](https://marketplace.visualstudio.com/items?itemName=KristofferHopland.MonokaiTheme) theme built for the **_Unity game engine_**
 
 # Theme Preview
 <img width="473" height="309.75" alt="image" src="https://github.com/user-attachments/assets/7bcce59c-4787-4b10-a606-95afa122a192" />
@@ -76,3 +76,4 @@ download the latest version of Dimo _[version]_.vssettings (Click on file, then 
     - Brace lvl 7: 238 | 130 | 238
     - Brace lvl 8: 255 | 121 | 124
     - Brace lvl 9: 107 | 221 | 104
+
