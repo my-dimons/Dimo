@@ -76,8 +76,3 @@ download the latest version of Dimo _[version]_.vssettings (Click on file, then 
     - Brace lvl 7: 238 | 130 | 238
     - Brace lvl 8: 255 | 121 | 124
     - Brace lvl 9: 107 | 221 | 104
- 
-I will try to find a better way to auto import (or even auto install) the Rainbow Braces theme, but for now I can't find any
-
-
-
