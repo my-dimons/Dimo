@@ -4,6 +4,8 @@ FORMATTING:
 -->
 A modified version of the [Monokai Spectrum](https://marketplace.visualstudio.com/items?itemName=KristofferHopland.MonokaiTheme) theme, built specifically for the **_Unity game engine_** (and with some other tweaks)
 
+View patch notes for each version [here](https://github.com/my-dimons/Dimo?tab=readme-ov-file#change-log)
+
 # Theme Preview
 Before (Basic Monokai Spectrum):
 
@@ -82,11 +84,13 @@ download the latest version of Dimo _[version]_.vssettings (Click on file, then 
     - Brace lvl 3: R:105 | G:235 | B:148
     - Brace lvl 4: R:236 | G:239 | B:109
 
+
 # Change Log
 
 ## v1.3
 - changed 'Keyword - Control' color to be a more saturated pink (Things like: if, else, switch, and return statements)
 ## v1.2
 - refined rainbow braces colors
+
 
 
