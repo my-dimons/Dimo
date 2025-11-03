@@ -2,7 +2,7 @@
 FORMATTING:
 - Divide all image sizes by 4 to get proper size
 -->
-A modified version of the [Monokai Spectrum](https://marketplace.visualstudio.com/items?itemName=KristofferHopland.MonokaiTheme) theme built for the **_Unity game engine_**
+A modified version of the [Monokai Spectrum](https://marketplace.visualstudio.com/items?itemName=KristofferHopland.MonokaiTheme) theme, built specifically for the **_Unity game engine_**
 
 # Theme Preview
 <img width="473" height="309.75" alt="image" src="https://github.com/user-attachments/assets/7bcce59c-4787-4b10-a606-95afa122a192" />
@@ -11,10 +11,10 @@ A modified version of the [Monokai Spectrum](https://marketplace.visualstudio.co
 # Installing 
 
 ## Setup Theme
-### Step 1 - Download .vssettings
+### Step 1 - Download latest version
 download the latest version of Dimo _[version]_.vssettings (Click on file, then in the top right click the download icon that says "Download Raw File")
 
-### Step 2 - Install Rainbow Braces (Optional, but is very easy and looks nice)
+### Step 2 - Install Rainbow Braces Extension
 
 - Navigate to Extensions -> Manage Extensions
 
@@ -49,10 +49,8 @@ download the latest version of Dimo _[version]_.vssettings (Click on file, then 
 <img width="242" height="249.5" alt="image" src="https://github.com/user-attachments/assets/b66f7713-90cd-4a86-a3fe-c03087f5032c" />
 
 
-
-
 ## If Rainbow Braces colors didn't import properly
-**NOTE:** It may say that Rainbow Braces settings had an error while importing, even if it imported properly. Make sure to test if the braces colors in the theme preview are the same as your braces colors (Like {} and ()), if they _are not_ THEN do these steps
+**NOTE:** It may say that the Rainbow Braces settings had an error while importing, even if it imported properly. Make sure to test if the braces colors in the theme preview are the same as your braces colors (Like {} and ()), if they _are not_ THEN do these steps
 - Navigate to Tools -> Options
   
 <img width="632.75" height="359.25" alt="Screenshot 2025-11-01 201641" src="https://github.com/user-attachments/assets/d8976fe9-f042-4fa6-aecb-5c754653d74f" />
@@ -65,15 +63,8 @@ download the latest version of Dimo _[version]_.vssettings (Click on file, then 
 
 <img width="385" height="227.25" alt="Screenshot 2025-11-01 202123" src="https://github.com/user-attachments/assets/31904512-262e-4785-8a54-82d5a3ab80be" />
 
-- My custom colors (Some taken from the Monokai Spectrum theme)
-    - R/G/B
-    - Brace lvl 1: 254 | 214 | 25
-    - Brace lvl 2: 238 | 130 | 238
-    - Brace lvl 3: 123 | 205 | 249
-    - Brace lvl 4: 107 | 221 | 104
-    - Brace lvl 5: 255 | 121 | 124
-    - Brace lvl 6: 254 | 214 | 25
-    - Brace lvl 7: 238 | 130 | 238
-    - Brace lvl 8: 255 | 121 | 124
-    - Brace lvl 9: 107 | 221 | 104
-
+- My custom colors
+    - Brace lvl 1: R:252 | G:97 | B:141
+    - Brace lvl 2: R:90 | G:212 | B:230
+    - Brace lvl 3: R:105 | G:235 | B:148
+    - Brace lvl 4: R:236 | G:239 | B:109
