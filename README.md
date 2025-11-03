@@ -82,5 +82,11 @@ download the latest version of Dimo _[version]_.vssettings (Click on file, then 
     - Brace lvl 3: R:105 | G:235 | B:148
     - Brace lvl 4: R:236 | G:239 | B:109
 
+# Change Log
+
+## v1.3
+- changed 'Keyword - Control' color to be a more saturated pink (Things like: if, else, switch, and return statements)
+## v1.2
+- refined rainbow braces colors
 
 
