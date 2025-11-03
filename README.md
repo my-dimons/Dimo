@@ -20,7 +20,7 @@ After (Modified Monokai Spectrum):
 ### Step 1 - Download latest version
 download the latest version of Dimo _[version]_.vssettings (Click on file, then in the top right click the download icon that says "Download Raw File")
 
-### Step 2 - Install Rainbow Braces and Monokai Spectrum (Unmodified)
+### Step 2 - Install Rainbow Braces and Monokai Spectrum
 
 - Navigate to Extensions -> Manage Extensions
 
@@ -81,5 +81,6 @@ download the latest version of Dimo _[version]_.vssettings (Click on file, then 
     - Brace lvl 2: R:90 | G:212 | B:230
     - Brace lvl 3: R:105 | G:235 | B:148
     - Brace lvl 4: R:236 | G:239 | B:109
+
 
 
