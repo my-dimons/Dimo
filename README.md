@@ -20,7 +20,7 @@ After (Modified Monokai Spectrum):
 
 ## Setup Theme
 ### Step 1 - Download latest version
-download the latest version of Dimo _[version]_.vssettings (Click on file, then in the top right click the download icon that says "Download Raw File")
+download the latest version of [Dimo](https://github.com/my-dimons/Dimo/releases/latest)
 
 ### Step 2 - Install Rainbow Braces and Monokai Spectrum
 
